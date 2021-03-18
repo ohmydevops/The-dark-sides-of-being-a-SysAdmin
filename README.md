@@ -7,11 +7,11 @@
 
 <img src='https://img.winfuture.de/teaser/1920/45908.jpg'>
 
-<sub>تصویر بالا مربوط به آتش سوزی دیتاسنتر OVH در تاریخ ۲۸ اسفند ۱۳۹۹ میباشد.</sub>
+<sub>تصویر بالا مربوط به آتش سوزی دیتاسنتر OVH در تاریخ ۲۰ اسفند ۱۳۹۹ میباشد.</sub>
 
 <h3>لیست خاطرات/نوشته‌‌ها/اتفاقات</h3>
 
-- آتش‌سوزی دیتاسنتر OVH در تاریخ ۲۸ اسفند ۱۳۹۹: <a href='https://www.ovh.com/world/news/press/cpl1787.fire-our-strasbourg-site'>جزییات بیشتر حادثه در وبسایت OVH</a>
+- آتش‌سوزی دیتاسنتر OVH در تاریخ ۲۰ اسفند ۱۳۹۹: <a href='https://www.ovh.com/world/news/press/cpl1787.fire-our-strasbourg-site'>جزییات بیشتر حادثه در وبسایت OVH</a>
   - تاثیر این آتش‌سوزی بر تیم زیرساخت ایران‌سرور: <a href='https://blog.iranserver.com/ovh-datacenter-destroyed-by-fire/'>لینک</a>
 
 -  خاطره‌ای از کاربر توییتر، سروش  نیک‌پور: <a href='https://twitter.com/oraclenik/status/1372226971397206020?s=20'>لینک توییت</a>
