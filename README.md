@@ -4,7 +4,7 @@
   
 در این مخزن، روزهای سخت مهندسان زیرساخت را آرشیو میکنیم. اگر شما سیستم ادمین هستید و خاطر‌ه‌ای از روزهای سختی که پشت سر گذاشتید نوشته‌اید، اینجا جای خوبی برای آرشیو کردن آن میباشد.
 <br>
-این ریپو از <a hre='https://srcco.de/posts/kubernetes-failure-stories.html'>اینجا</a> الهام گرفته شده است.
+این ریپو از <a href='https://srcco.de/posts/kubernetes-failure-stories.html'>اینجا</a> الهام گرفته شده است.
 
 <img src='https://img.winfuture.de/teaser/1920/45908.jpg'>
 
