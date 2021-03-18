@@ -22,6 +22,7 @@
 
 -  پاک‌شدن دیتابیس‌های گیتلب در سال 2017: <a href='https://about.gitlab.com/blog/2017/02/01/gitlab-dot-com-database-incident/'>جزییات حادثه</a>
 
+- حمله DDOS به سرورهای لبه آروان در سال 1397: <a href='https://www.arvancloud.com/blog/%D9%87%D8%B4%D8%AF%D8%A7%D8%B1-%D8%AD%D9%85%D9%84%D8%A7%D8%AA-ddos-%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85-mtproxy-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86/'>جزییات حادثه</a>
 
 </div>
 
