@@ -20,6 +20,9 @@
 -  حمله به زیرساخت‌های ابر آروان در دیتاسنتر آسیاتک: <a href='https://twitter.com/pPirhosseinloo/status/1371926777489133569?s=20'>لینک توییت</a>
 
 
+-  پاک‌شدن دیتابیس‌های گیتلب در سال 2017: <a href='https://about.gitlab.com/blog/2017/02/01/gitlab-dot-com-database-incident/'>جزییات حادثه</a>
+
+
 </div>
 
 
