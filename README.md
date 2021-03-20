@@ -32,6 +32,11 @@
   - درباره این موضوع، رشته‌توییتی از کاربر کیان را میتوانید مطالعه کنید: <a href='https://twitter.com/kian1024/status/1338550163963588609?s=20'>مشاهده توییت‌ها</a>
   - جزییات حادثه ۱۴ دسامبر ۲۰۲۰ در سایت گوگل و گزارش PostMortem: <a href='https://status.cloud.google.com/incident/zall/20013#20013004'>مشاهده توضیحات گوگل</a>
 
+
+- قطع شدن سرویس S3 آمازون به خاطر یک اشتباه تایپی در تاریخ ۱۰ اسفند ۱۳۹۵: <a href='https://www.theverge.com/2017/3/2/14792442/amazon-s3-outage-cause-typo-internet-server/'>جزییات حادثه</a>
+  - توضیحات آمازون دراین‌باره: <a href='https://aws.amazon.com/message/41926/?ascsubtag=[]vg[p]14556483[t]w[d]D'>مشاهده توضیحات</a> 
+
+
 ---
 
 <sub>
