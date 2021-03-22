@@ -18,6 +18,7 @@
 
 
 -  حمله به زیرساخت‌های ابر آروان در دیتاسنتر آسیاتک در ۲۷ اسفند ۱۳۹۹: <a href='https://twitter.com/pPirhosseinloo/status/1371926777489133569?s=20'>لینک توییت</a>
+  - توضیحات فنی ابر آروان (گزارش اولیه):  <a href='https://www.arvancloud.com/blog/%DA%AF%D8%B2%D8%A7%D8%B1%D8%B4-%D8%A7%D9%88%D9%84%DB%8C%D9%87-%D8%A7%D8%B2-%D8%AD%D9%85%D9%84%D9%87-%D9%88-%D8%B1%D9%88%D9%86%D8%AF-%D8%A8%D8%A7%D8%B2%DB%8C%D8%A7%D8%A8%DB%8C/'>مشاهده جزئیات</a>
 
 
 -  پاک‌شدن دیتابیس‌های گیتلب در ۱۳ بهمن ۱۳۹۵: <a href='https://about.gitlab.com/blog/2017/02/01/gitlab-dot-com-database-incident/'>جزییات حادثه</a>
