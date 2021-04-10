@@ -39,6 +39,7 @@
 
 - خطای انسانی و قطعی در سرویس‌های مایکروسافت آژور در ۲۷ آبان ۱۳۹۳: <a href='https://www.datacenterdynamics.com/en/news/microsoft-confirms-azure-outage-was-human-error/'>مشاهده توضیحات</a> 
 
+- مطلبی تحت عنوان My first sysadmin mistake نوشته آقای Jim Hall: <a href='https://opensource.com/article/18/7/my-first-sysadmin-mistake'>مشاهده مطلب</a> 
 
 
 
