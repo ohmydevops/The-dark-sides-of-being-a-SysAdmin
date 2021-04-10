@@ -41,6 +41,8 @@
 
 - مطلبی تحت عنوان My first sysadmin mistake نوشته آقای Jim Hall: <a href='https://opensource.com/article/18/7/my-first-sysadmin-mistake'>مشاهده مطلب</a> 
 
+- مطلبی تحت عنوان Why making mistakes makes me a better sysadmin نوشته آقای Ben Cotton: <a href='https://opensource.com/article/20/8/sysadmin-mistakes'>مشاهده مطلب</a> 
+
 
 
 ---
