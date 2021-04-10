@@ -35,7 +35,11 @@
 
 
 - قطع شدن سرویس S3 آمازون به خاطر یک اشتباه تایپی در تاریخ ۱۰ اسفند ۱۳۹۵: <a href='https://www.theverge.com/2017/3/2/14792442/amazon-s3-outage-cause-typo-internet-server/'>جزییات حادثه</a>
-  - توضیحات آمازون دراین‌باره: <a href='https://aws.amazon.com/message/41926/?ascsubtag=[]vg[p]14556483[t]w[d]D'>مشاهده توضیحات</a> 
+  - توضیحات آمازون دراین‌باره: <a href='https://aws.amazon.com/message/41926/?ascsubtag=[]vg[p]14556483[t]w[d]D'>مشاهده توضیحات</a>
+
+- خطای انسانی و قطعی در سرویس‌های مایکروسافت آژور در ۲۷ آبان ۱۳۹۳: <a href='https://www.datacenterdynamics.com/en/news/microsoft-confirms-azure-outage-was-human-error/'>مشاهده توضیحات</a> 
+
+
 
 
 ---
