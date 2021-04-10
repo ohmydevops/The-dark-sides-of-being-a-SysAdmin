@@ -44,6 +44,7 @@
 - مطلبی تحت عنوان Why making mistakes makes me a better sysadmin نوشته آقای Ben Cotton: <a href='https://opensource.com/article/20/8/sysadmin-mistakes'>مشاهده مطلب</a>
 
 - ایمیل‌ها فقط تا فاصله 836 کیلومتری (۵۰۰ مایل) ارسال میشه.  <a href='https://web.mit.edu/jemorris/humor/500-miles'>مشاهده مطلب</a> 
+  - FAQ:  <a href='http://www.ibiblio.org/harris/500milemail-faq.html'>مشاهده مطلب</a>
 
 
 
