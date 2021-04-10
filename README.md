@@ -45,7 +45,7 @@
 
 - ایمیل‌ها فقط تا فاصله 836 کیلومتری (۵۰۰ مایل) ارسال میشه.  <a href='https://web.mit.edu/jemorris/humor/500-miles'>مشاهده مطلب</a> 
   - FAQ:  <a href='http://www.ibiblio.org/harris/500milemail-faq.html'>مشاهده مطلب</a>
-  - بحث درباره این موضوع در هکرنیزو: <a href='https://news.ycombinator.com/item?id=9338708'>مشاهده مطلب</a> 
+  - بحث درباره این موضوع در هکر‌نیوز: <a href='https://news.ycombinator.com/item?id=9338708'>مشاهده مطلب</a> 
 
 
 
